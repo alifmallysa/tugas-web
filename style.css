@@ -1,0 +1,51 @@
+/* Gaya untuk latar belakang halaman */
+body {
+    background-color: #3498db; /* Gunakan kode warna CSS atau nama warna */
+    font-family: Arial, sans-serif;
+    color: #ffffff; /* Warna teks */
+    margin: 0;
+    padding: 0;
+}
+
+/* Gaya untuk header */
+header {
+    background-color: #e74c3c;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Gaya untuk judul */
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+/* Gaya untuk bagian utama */
+main {
+    padding: 20px;
+}
+
+/* Gaya untuk bagian */
+section {
+    background-color: #2ecc71;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+/* Gaya untuk judul bagian */
+h2 {
+    font-size: 24px;
+    margin: 0;
+}
+
+/* Gaya untuk paragraf */
+p {
+    font-size: 16px;
+}
+
+/* Gaya untuk footer */
+footer {
+    background-color: #34495e;
+    text-align: center;
+    padding: 10px;
+}
